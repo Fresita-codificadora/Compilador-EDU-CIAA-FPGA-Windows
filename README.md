@@ -29,6 +29,8 @@ Antes de empezar, necesitás tener instalado:
 
 la carpeta debe contener el .devcontainer para que visual studio code detecte el contenedor
 
+![carpeta que debemos abrir](imagenes/comosetieneque ver la carpeta.png)
+
 3. **Cuando VS Code detecte el contenedor, hacé clic en**:  
    `Reopen in Container` (Reabrir en contenedor)
 
