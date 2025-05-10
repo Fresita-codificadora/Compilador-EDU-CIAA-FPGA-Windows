@@ -84,14 +84,16 @@ output/mi_modulo.bin
 Una vez compilado, podés usar tu programador preferido.
 te recomiendo 
 👉 [**Programador de lattice**](https://www.latticesemi.com/view_document?document_id=54451)
+
 [**como configurarlo**](imagenes/ComoUsarDiamondProgrammer.pdf)
 
+[**Drivers para el programador**](https://ftdichip.com/drivers/d2xx-drivers/)
 si no el programador oficial IceStorm, descargalo desde:
 
 📥 [https://github.com/cliffordwolf/icestorm](https://github.com/cliffordwolf/icestorm)
 
 > Si usás otra herramienta como `iceprog`, `openFPGALoader` o similar, podés adaptarlo a tu flujo.
-[**Drivers para el programador**](https://ftdichip.com/drivers/d2xx-drivers/)
+
 ---
 
 ## 📌 Licencia
