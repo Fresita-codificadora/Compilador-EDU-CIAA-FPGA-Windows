@@ -31,8 +31,11 @@ Antes de empezar, necesitás tener instalado:
    `Reopen in Container` (Reabrir en contenedor)
 
    si no aparece apreta ctrl+p y en los comandos `Reopen in Container`
-
+   
+   Recorda que tenes que tener abierto el docker desktop si no ocurrira un error
 5. **¡Listo! Ya estás dentro del entorno**.
+   Para verificar que estas dentro del entorno, deberias tener un contenedor corriendo dentro de docker desktop y ademas en visual studio code en la esquina inferior izquierda debe aparecer "Dev Container:fpga-dev-env" en una pestaña azul
+   ![Entorno corriendo](imagenes/entorno_corriendo.png)
 6. **Ahora te recomiendo instalarte dentro del entorno unas extenciones**
    - :pager: **VHDL** (Buscar en el marketplace como: `puorc.awesome-vhdl`)
    - :vhs:  **TerosHDL**(Buscar en el marketplace como: `teros-technology.teroshdl`)
