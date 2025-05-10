@@ -88,6 +88,7 @@ te recomiendo
 [**como configurarlo**](imagenes/ComoUsarDiamondProgrammer.pdf)
 
 [**Drivers para el programador**](https://ftdichip.com/drivers/d2xx-drivers/)
+
 si no el programador oficial IceStorm, descargalo desde:
 
 📥 [https://github.com/cliffordwolf/icestorm](https://github.com/cliffordwolf/icestorm)
