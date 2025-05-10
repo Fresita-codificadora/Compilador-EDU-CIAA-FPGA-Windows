@@ -27,7 +27,7 @@ Antes de empezar, necesitás tener instalado:
 
 2. **Abrí la carpeta desde VS Code**
 
-la carpeta debe contener el .devcontainer para que visual studio code detecte el contenedor
+    la carpeta debe contener el .devcontainer para que visual studio code detecte el contenedor
 
 ![carpeta que debemos abrir](imagenes/comosetieneque ver la carpeta.png)
 
