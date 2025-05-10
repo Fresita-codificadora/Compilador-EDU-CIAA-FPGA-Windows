@@ -27,6 +27,8 @@ Antes de empezar, necesitás tener instalado:
 
 2. **Abrí la carpeta desde VS Code**
 
+la carpeta debe contener el .devcontainer para que visual studio code detecte el contenedor
+
 3. **Cuando VS Code detecte el contenedor, hacé clic en**:  
    `Reopen in Container` (Reabrir en contenedor)
 
