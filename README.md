@@ -89,7 +89,7 @@ Una vez compilado, podés usar tu programador preferido.
 te recomiendo 
 👉 [**Programador de lattice**](https://www.latticesemi.com/view_document?document_id=54451)
 
-[**como configurarlo**](imagenes/ComoUsarDiamondProgrammer.pdf)
+[**Como configurarlo**](imagenes/ComoUsarDiamondProgrammer.pdf)
 
 [**Drivers para el programador**](https://ftdichip.com/drivers/d2xx-drivers/)
 
